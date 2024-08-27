@@ -42,6 +42,14 @@ try:
           if char==curses.KEY_F2:
 
                break
+          elif char==curses.KEY_UP or char==119:
+               print("up")
+          elif char==curses.KEY_DOWN or char==115:
+            print("down")
+          elif char==curses.KEY_RIGHT or char==100:
+                 print("right")
+          elif char==curses.KEY_LEFT or char==97:
+              print("left")
           if char==114:
               print("r")
               b=1
