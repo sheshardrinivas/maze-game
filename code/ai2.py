@@ -102,7 +102,7 @@ def say(text):
             f.write(ans1+f"{strtime}")
             f.close()
             subprocess.call(["say","-v", "Samantha",f"{ans}"])
-            subprocess.Popen("wiki_data.txt",shell=True)
+            subprocess.Popen("open wiki_data.txt",shell=True)
             playsound("hedwigs-theme.wav")
 
 
