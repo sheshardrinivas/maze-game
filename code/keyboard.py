@@ -1,5 +1,4 @@
 import curses
-
 import pyautogui
 screen=curses.initscr()
 curses.noecho()
