@@ -53,7 +53,8 @@ try:
           if char==114:
               print("r")
               b=1
-              break   
+              break 
+          
              
         
 
