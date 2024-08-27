@@ -12,7 +12,7 @@ curses.cbreak()
 screen.keypad(True)
 b=0
 def render_map():
-    for i, value in enumerate(reversed(map.game_map_level1)):
+    for i , value in enumerate(reversed(map.game_map_level1)):
         if value == 1:
             #pixels.set_pixel(i, (255, 255, 255)) 
             print(f"white {i}")
