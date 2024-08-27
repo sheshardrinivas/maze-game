@@ -16,7 +16,7 @@ Install all requirements from requirements.txt.
 
 By:
 
- <img width="264" alt="Screenshot 2024-08-26 at 2 48 04 PM" src="https://github.com/user-attachments/assets/5e667755-e716-495c-a75f-284103275074">
+ <img width="264" alt="Screenshot 2024-08-26 at 2 48 04 PM" src="re.png">
  
 In your terminal.
 
