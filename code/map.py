@@ -5,7 +5,7 @@
 #  4 for color blue.
 # 20x20 MAP
 # 6 for hit boxs
-# you need 150 pixels to run this code but you change it to 5x5 map.
+# you need 400 pixels to run this code but you change it to 5x5 map.
 
 game_map_level1=[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
                  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
