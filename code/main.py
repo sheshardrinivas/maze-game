@@ -15,25 +15,25 @@ def render_map():
     for i , value in enumerate(reversed(map.game_map_level1)):
         if value == 1:
             #pixels.set_pixel(i, (255, 255, 255)) 
-            print(f"white {i}")
+            print(f"white {i+1}")
         elif value == 5:
             #pixels.set_pixel(i, (0, 255, 0))  
-            print(f"green {i}")
+            print(f"green {i+1}")
         elif value == 4:
             #pixels.set_pixel(i, (0, 0, 255))  
-            print(f"blue {i}")
+            print(f"blue {i+1}")
         elif value == 3:
             #pixels.set_pixel(i, (255, 0, 0))
-            print(f"red {i}")
+            print(f"red {i+1}")
         elif value == 0:
             #pixels.set_pixel(i, (0, 0, 0))  
-            print(f"black {i}")
+            print(f"black {i+1}")
         elif value == 6:
             #pixels.set_pixel(i, (0, 0, 0))  
-            print(f"hitbox {i}")
+            print(f"hitbox {i+1}")
         elif value == 7:
             #pixels.set_pixel(i, (255, 255, 255))  
-            print(f"door {i}")
+            print(f"door {i+1}")
 
 try:
      b=0
