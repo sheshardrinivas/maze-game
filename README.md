@@ -2,15 +2,15 @@
 maze game
 
   
-# HOW TO SET UP YOUR RASBERRY PI.
+# HOW TO SET UP YOUR RASPBERRY PI.
 
-Frist install rasberry pi os on an sd card.
+Frist install raspberry pi os on an sd card.
 
 Then install python.
 
 Clone the maze game.
 
-Connect the neopixels to pin 6 on your rasberry pi.
+Connect the neopixels to pin 6 on your raspberry pi.
 
 Install all requirements from requirements.txt.
 
